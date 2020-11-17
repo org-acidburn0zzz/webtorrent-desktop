@@ -37,7 +37,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "rimraf": "^3.0.2",
-    "run-parallel": "^1.1.9",
+    "run-parallel": "^1.1.10",
     "semver": "^7.3.2",
     "simple-concat": "^1.0.1",
     "simple-get": "^4.0.0",
